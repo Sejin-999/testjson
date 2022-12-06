@@ -1,0 +1,20 @@
+[
+  {
+    "PostID": "1",
+    "title": "Post 1",
+    "content" : "1번 content",
+    "nickName":"seokjin"
+  },
+  {
+   "PostID": "2",
+    "title": "Post 2",
+    "content" : "2번 content",
+    "nickName":"세진"
+  },
+  {
+    "PostID": "3",
+    "title": "Post 3",
+    "content" : "3번 content",
+    "nickName":"민혁"
+  }
+]
